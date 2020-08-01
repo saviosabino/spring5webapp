@@ -1,4 +1,3 @@
-
 package guru.springframework.spring5webapp;
 
 import org.springframework.boot.SpringApplication;
